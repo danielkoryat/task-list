@@ -11,4 +11,4 @@ This is a simple to-do list app written in React, Express, and MongoDB.
 2. Clone the repository to your local machine:
 
 ```bash
-git clone {repositoryURL}
+git clone {https://github.com/danielkoryat/task-list.git}
