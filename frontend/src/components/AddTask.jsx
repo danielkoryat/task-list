@@ -52,7 +52,7 @@ export default function AddTask() {
               })}
             />
             {errors.name && (
-              <span className="text-error">please anter your name</span>
+              <span className="text-error">please enter your name</span>
             )}
             <br />
             <label htmlFor="task">enter your task</label>
@@ -65,7 +65,7 @@ export default function AddTask() {
               })}
             />
             {errors.task && (
-              <span className="text-error">please anter a task</span>
+              <span className="text-error">please enter a task</span>
             )}
             <br />
             <button type="submit" className="btn btn-dark text-white">
