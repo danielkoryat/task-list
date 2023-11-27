@@ -1,3 +1,14 @@
 # Task List project
-this is a simple to-do list app written in react,express and mongodb. 
-I am learning and setting react, express and mongodb
+
+This is a simple to-do list app written in React, Express, and MongoDB.
+
+## How to use
+
+### Install
+
+1. Install Node.js and npm if you haven't already. You can download them from [here](https://nodejs.org/en/).
+
+2. Clone the repository to your local machine:
+
+```bash
+git clone {repositoryURL}
